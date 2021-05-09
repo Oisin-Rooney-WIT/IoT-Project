@@ -7,3 +7,7 @@ This is why I would like to create a sensor that will record these details and n
 
 
 ![image](https://user-images.githubusercontent.com/79083635/112673849-1fb52500-8e5d-11eb-9464-422f7cbfbe2a.png)
+
+
+
+Here is a short youtube vieo explaining how it works https://www.youtube.com/watch?v=m1i60uARQEM 
